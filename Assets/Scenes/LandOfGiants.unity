@@ -2631,7 +2631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cf2035a48ccf439f8cfec8f971e3b1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loadLevel: circusScene
+  loadLevel: DancingOnTheCeiling
 --- !u!65 &480236768
 BoxCollider:
   m_ObjectHideFlags: 0

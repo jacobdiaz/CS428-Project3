@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/smallCircScene.unity
     guid: 4f091bc8a3e42499090b15a6a1bb7979
+  - enabled: 1
+    path: Assets/Scenes/LandOfGiants.unity
+    guid: f01ad31a598a041b48bcaf3bafa1c4f9
+  - enabled: 1
+    path: Assets/Scenes/DancingOnTheCeiling.unity
+    guid: a8264058be7564602bb50bf11bcf663f
   m_configObjects: {}
